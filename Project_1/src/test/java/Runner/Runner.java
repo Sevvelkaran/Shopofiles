@@ -13,7 +13,8 @@ package Runner;
 		    },
 		    		
 		    features = {
-		    	   "src/test/java/com.Resources/Login.feature",
+//		    	   "src/test/java/com.Resources/Login.feature",
+		    	   "src/test/java/com.Resources/Home.feature",
 		  	      
 		    },
 		    glue = "Definations",
